@@ -1,0 +1,29 @@
+head
+{  
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.headdiv
+{     box-shadow: 10px 10px 5px grey}
+
+.t1
+{   float: right;
+     display:table-row;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: medium;
+    color: grey
+}
+.t2
+{   float: left;
+     display:table-row;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: medium;
+    color: grey
+}
+
+  .headLinks
+  {  float: left;
+  height: 300px;
+  width: 400px;
+  background-color:#cccccc;
+  }

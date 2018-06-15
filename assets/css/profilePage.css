@@ -1,0 +1,52 @@
+
+  table
+  {       display:table-row;
+      border: 1px solid #ddd; /* Gray border */
+    color:
+  }
+  
+  
+  img{
+    position: static;
+     height: 500px;
+      width: 500px;
+      border: 1px solid; /* Gray border */
+      border-radius: 4px;  /* Rounded border */
+      padding: 5px; /* Some padding */}
+  
+
+  .imglabel
+  {height: 30px;
+    width: 50px;
+    position: right;
+      display:block;
+         float: left;
+    background-color: #4aaaa5;
+    z-index: -2;
+  }
+  .container1
+  { height: 250px;
+    width: 250px;
+    position: relative;
+}
+p1
+{position: absolute,center;
+   text-align: center;
+    top:600px;
+
+background-color: teal;
+font: bold 24px/45px Helvetica, Sans-Serif; 
+right:1px
+
+
+}
+.text1{  z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    left: 150px;
+    top: 350px;}
+
+    .portfolio {  position: absolute;
+       }
